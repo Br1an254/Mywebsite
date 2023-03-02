@@ -1,0 +1,10 @@
+p {
+    font-size: 30px;
+}
+
+a {
+    color: green;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 30px;
+}
